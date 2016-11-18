@@ -18,6 +18,9 @@ public class ForWhile {
 				System.out.print("*");
 			System.out.println();
 		}
+
 	}
+	
+	
 
 }
